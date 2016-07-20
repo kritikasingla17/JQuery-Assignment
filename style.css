@@ -1,0 +1,20 @@
+.head,form{
+	text-align: center;
+	color:white;
+}
+
+
+.table-Section{
+	margin-top: 20px;
+}
+table, td {
+    border: 2px solid white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-weight: bold;
+}
+body{
+	background-color: black;
+}

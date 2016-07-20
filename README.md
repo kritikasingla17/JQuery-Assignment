@@ -1,1 +1,1 @@
-# JQuery-Assignment
+# JQueryAssignment
